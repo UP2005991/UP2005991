@@ -1,4 +1,4 @@
-![Banner](Banner.gif)
+![Banner](Banner.gif | width=2480)
 
 ![Skills](Skills.PNG)
 
