@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](Banner.gif)
 
 ![Skills](Skills.PNG)
 
