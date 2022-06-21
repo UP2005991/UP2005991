@@ -7,7 +7,7 @@
 
 ----
 
-### <img src="Rust.png" alt="Lets Get Rusty!" height="20px"/> I'm a Student at the University of Portsmouth, currently learning Rust alongside my studies. <img src="Rust.png" alt="Lets Get Rusty!" height="20px"/>
+### I'm a Student at the University of Portsmouth, currently learning Rust alongside my studies.
 
 ----
 
