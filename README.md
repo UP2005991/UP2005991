@@ -1,4 +1,4 @@
-<img src="Banner.gif" width="1240px" align="centre"/>
+<img src="Banner.gif" width="1240px" align="center"/>
 
 ![Skills](Skills.PNG)
 
