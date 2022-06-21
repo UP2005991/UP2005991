@@ -7,12 +7,25 @@
 
 ----
 
-### Proficient in Javascript, HTML & CSS
+### ![Lets Get Rusty!](Rust.PNG) I'm a Student at the University of Portsmouth, currently learning Rust alongside my studies. ![Lets Get Rusty!](Rust.PNG)
 
-+ Node.js
-+ Express.js
-+ JEST Testing
+----
 
-### Learning RUST, alongside Web Assembly
+### Formally Taught
 
-### Previous experience with Java, Python and C/C++ (particularly Arduino C)
+- Javascript - University
+  + Node.js
+  + Express.js
+  + JEST
+- HTML / CSS
+- Markdown
+- PostgreSQL
+- Git / GitHub
+- Java - A-Levels
+- Python - GCSEs & A-Levels
+
+### Informally Taught / Self-Taught
+
+- Rust
+- TypeScript
+- C/C++ (Arduino C in particular)
