@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Skills](/Skills.png)
+![Skills](Skills.PNG)
 
 <!--
 **UP2005991/UP2005991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
