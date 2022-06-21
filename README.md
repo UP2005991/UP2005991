@@ -7,7 +7,7 @@
 
 ----
 
-### ![Lets Get Rusty!](Rust.PNG) I'm a Student at the University of Portsmouth, currently learning Rust alongside my studies. ![Lets Get Rusty!](Rust.PNG)
+### ![Lets Get Rusty!](Rust.png) I'm a Student at the University of Portsmouth, currently learning Rust alongside my studies. ![Lets Get Rusty!](Rust.png)
 
 ----
 
