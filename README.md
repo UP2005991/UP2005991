@@ -7,12 +7,12 @@
 
 ----
 
-## Proficient in Javascript, HTML & CSS
+### Proficient in Javascript, HTML & CSS
 
 + Node.js
 + Express.js
 + JEST Testing
 
-## Learning RUST, alongside Web Assembly
+### Learning RUST, alongside Web Assembly
 
-## Previous experience with Java, Python and C/C++ (particularly Arduino C)
+### Previous experience with Java, Python and C/C++ (particularly Arduino C)
