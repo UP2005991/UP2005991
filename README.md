@@ -1,4 +1,5 @@
 ![Banner](Banner.gif){width="2480px"}
+<img src="Banner.gif" width="2480px" />
 
 ![Skills](Skills.PNG)
 
