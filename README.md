@@ -7,7 +7,7 @@
 
 ----
 
-### ![Lets Get Rusty!](Rust.png){width="5%"} I'm a Student at the University of Portsmouth, currently learning Rust alongside my studies. ![Lets Get Rusty!](Rust.png){width="5%"}
+### <img src="Rust.png" alt="Lets Get Rusty!" width="5%"/> I'm a Student at the University of Portsmouth, currently learning Rust alongside my studies. <img src="Rust.png" alt="Lets Get Rusty!" width="5%"/>
 
 ----
 
