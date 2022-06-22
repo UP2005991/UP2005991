@@ -7,11 +7,15 @@
 
 ----
 
-### I'm a Student at the University of Portsmouth, currently learning Rust alongside my studies.
+### 🧭 About
+
+💻 I'm a Student at the University of Portsmouth.
+🦀 Currently learning Rust alongside my studies.
+🪂 Working on building my portfolio :)
 
 ----
 
-### Formally Taught
+### 📋 Formally Taught
 
 - Javascript - University
   + Node.js
@@ -24,8 +28,10 @@
 - Java - A-Levels
 - Python - GCSEs & A-Levels
 
-### Informally Taught / Self-Taught
+### ✏️ Informally Taught / Self-Taught
 
 - Rust
 - TypeScript
 - C/C++ (Arduino C in particular)
+
+[![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=UP2005991&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
