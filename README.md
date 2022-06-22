@@ -18,7 +18,9 @@
 ### 🧭 About
 
 💻 I'm a Student at the University of Portsmouth.
+
 🦀 Currently learning Rust alongside my studies.
+
 🪂 Working on building my portfolio :)
 
 ----
