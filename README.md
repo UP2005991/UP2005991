@@ -1,7 +1,7 @@
 
 <section align="center">
   
-  <img src="Banner.gif" width="70%"/>
+  <img src="Banner.gif" width="80%"/>
   
 \
 &nbsp;
