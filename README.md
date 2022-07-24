@@ -6,7 +6,10 @@
 \
 &nbsp;
  
-  [![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dominic-Terry&count_private=true&hide=stars,contribs,&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ ![Stats](https://raw.githubusercontent.com/Dominic-Terry/Stats/master/generated/overview.svg#gh-dark-mode-only)
+ ![Langs](https://raw.githubusercontent.com/Dominic-Terry/Stats/master/generated/languages.svg#gh-dark-mode-only)
+ 
+  <!--[![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dominic-Terry&count_private=true&hide=stars,contribs,&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
     
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-Terry&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
