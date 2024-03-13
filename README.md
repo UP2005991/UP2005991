@@ -20,14 +20,3 @@
     
 
 </section>
-
-----
-
-### 🧭 About
-
-🎓 Studying BSc Sofware Engineering at the University of Portsmouth.
-
-💻 Placement Software Developer at Fresh Relevance.
-
-🦀 Currently learning Rust alongside my studies, and working on building my portfolio!
-
